@@ -4,4 +4,4 @@ Program using python socket programming to output information about sites visite
 
 #### Usage:
 
-python3 WebTester.py <URI>
+python3 WebTester.py (URI)
